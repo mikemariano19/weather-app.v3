@@ -1,6 +1,7 @@
-import Weather from './weather'
+import Weather from './Weather'
 
 import './index.css'
+import '../dist/api'
 
 function App() {
   return (
